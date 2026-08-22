@@ -1,2 +1,2 @@
-generativeai
+google-generativeai
 pyTelegramBotAPI
